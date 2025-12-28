@@ -6,3 +6,6 @@ Malaysia’s healthcare system is experiencing increasing structural strain driv
 
 1. Increase overall healthcare staffing levels
 2. Second, address staff maldistribution across states and facilities
+
+
+<img width="3095" height="1528" alt="Cloropleth Bed-to-Staff ratio" src="https://github.com/user-attachments/assets/b092e662-fd61-40e6-b075-3e3742879cd6" />
