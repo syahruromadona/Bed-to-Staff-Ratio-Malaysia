@@ -14,13 +14,13 @@ Malaysia’s healthcare system is facing **capacity stress that is fundamentally
 ## Methodology
 
 1. **SQL -** Used SQL to extract, clean, and transform raw healthcare data, including aggregation by year and state, and deriving key metrics such as the bed-to-staff ratio for analysis.
-2. **Excel -** Utilized Microsoft Excel to produce analytical charts, including national trends over time, state-level comparisons, and geographic visualizations
+2. **Python & Excel -** Utilized Microsoft Excel to produce analytical charts, including national trends over time, state-level comparisons, and geographic visualizations
 3. **Data Extraction (Malaysia Official Open Data Portal) -** Sourced hospital bed and healthcare workforce data from Malaysia’s official open data portal. 
 
 ## Skill
 
 1. **SQL -** Common Table Expressions (CTEs), joins, `CASE` statements, aggregate functions, window functions, data cleaning, and metric derivation (e.g., bed-to-staff ratios).
-2. **Excel -** Data cleaning and transformation, pivot tables, lookup functions, calculated fields, time-series analysis, and charting (line charts, comparative state trends, and choropleth-style visualizations).
+2. **Python & Excel -** Data cleaning and transformation, pivot tables, lookup functions, calculated fields, time-series analysis, and charting (line charts, comparative state trends, and choropleth-style visualizations).
 
 ## Result and Business Recommendation
 
