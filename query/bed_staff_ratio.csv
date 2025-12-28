@@ -1,0 +1,129 @@
+year,state,category,total_bed,staff_num,bed_to_staff_ratio
+2015,Johor,Public,9936,11721,0.85
+2016,Johor,Public,10370,11987,0.87
+2017,Johor,Public,10370,12506,0.83
+2018,Johor,Public,10400,12764,0.81
+2019,Johor,Public,10400,13553,0.77
+2020,Johor,Public,10540,12294,0.86
+2021,Johor,Public,10556,14586,0.72
+2022,Johor,Public,10866,14634,0.74
+2015,Kedah,Public,5306,8540,0.62
+2016,Kedah,Public,5378,8762,0.61
+2017,Kedah,Public,5406,8985,0.6
+2018,Kedah,Public,5346,9229,0.58
+2019,Kedah,Public,5422,9666,0.56
+2020,Kedah,Public,5404,10652,0.51
+2021,Kedah,Public,5510,10486,0.53
+2022,Kedah,Public,5524,10372,0.53
+2015,Kelantan,Public,3480,8505,0.41
+2016,Kelantan,Public,3632,8683,0.42
+2017,Kelantan,Public,3632,8990,0.4
+2018,Kelantan,Public,3686,9084,0.41
+2019,Kelantan,Public,3916,8683,0.45
+2020,Kelantan,Public,3914,7719,0.51
+2021,Kelantan,Public,3966,11589,0.34
+2022,Kelantan,Public,4282,12097,0.35
+2015,Melaka,Public,2490,4056,0.61
+2016,Melaka,Public,2552,4342,0.59
+2017,Melaka,Public,2552,4503,0.57
+2018,Melaka,Public,2552,4480,0.57
+2019,Melaka,Public,2570,4947,0.52
+2020,Melaka,Public,2570,5286,0.49
+2021,Melaka,Public,2590,5463,0.47
+2022,Melaka,Public,2620,5624,0.47
+2015,Negeri Sembilan,Public,3578,5132,0.7
+2016,Negeri Sembilan,Public,3578,5329,0.67
+2017,Negeri Sembilan,Public,3592,5779,0.62
+2018,Negeri Sembilan,Public,3578,6157,0.58
+2019,Negeri Sembilan,Public,3724,6479,0.57
+2020,Negeri Sembilan,Public,3882,8023,0.48
+2021,Negeri Sembilan,Public,3882,7030,0.55
+2022,Negeri Sembilan,Public,3882,7248,0.54
+2015,Pahang,Public,4316,7655,0.56
+2016,Pahang,Public,4632,7925,0.58
+2017,Pahang,Public,4624,8026,0.58
+2018,Pahang,Public,4632,8347,0.55
+2019,Pahang,Public,4632,9050,0.51
+2020,Pahang,Public,4632,9042,0.51
+2021,Pahang,Public,4632,9427,0.49
+2022,Pahang,Public,4712,9586,0.49
+2015,Perak,Public,11230,10569,1.06
+2016,Perak,Public,10790,10867,0.99
+2017,Perak,Public,10790,11259,0.96
+2018,Perak,Public,10790,11422,0.94
+2019,Perak,Public,10790,11995,0.9
+2020,Perak,Public,10790,6566,1.64
+2021,Perak,Public,11554,13130,0.88
+2022,Perak,Public,11554,13561,0.85
+2015,Perlis,Public,816,1721,0.47
+2016,Perlis,Public,816,1840,0.44
+2017,Perlis,Public,1016,1882,0.54
+2018,Perlis,Public,1016,1914,0.53
+2019,Perlis,Public,1016,1994,0.51
+2020,Perlis,Public,1016,10665,0.1
+2021,Perlis,Public,1016,2100,0.48
+2022,Perlis,Public,1016,2116,0.48
+2015,Pulau Pinang,Public,4092,6505,0.63
+2016,Pulau Pinang,Public,4260,6769,0.63
+2017,Pulau Pinang,Public,4130,7506,0.55
+2018,Pulau Pinang,Public,4236,7651,0.55
+2019,Pulau Pinang,Public,4226,7511,0.56
+2020,Pulau Pinang,Public,4226,10600,0.4
+2021,Pulau Pinang,Public,4266,8137,0.52
+2022,Pulau Pinang,Public,4276,8192,0.52
+2015,Sabah,Public,9262,13772,0.67
+2016,Sabah,Public,9590,14084,0.68
+2017,Sabah,Public,9714,14368,0.68
+2018,Sabah,Public,9616,15072,0.64
+2019,Sabah,Public,9672,15432,0.63
+2020,Sabah,Public,9946,13669,0.73
+2021,Sabah,Public,10006,16125,0.62
+2022,Sabah,Public,10026,16345,0.61
+2015,Sarawak,Public,7888,11090,0.71
+2016,Sarawak,Public,7956,12152,0.65
+2017,Sarawak,Public,7978,13190,0.6
+2018,Sarawak,Public,8102,12446,0.65
+2019,Sarawak,Public,8166,12373,0.66
+2020,Sarawak,Public,8292,15138,0.55
+2021,Sarawak,Public,8198,12725,0.64
+2022,Sarawak,Public,8238,13374,0.62
+2015,Selangor,Public,10810,16474,0.66
+2016,Selangor,Public,10886,17510,0.62
+2017,Selangor,Public,10766,19883,0.54
+2018,Selangor,Public,11028,20882,0.53
+2019,Selangor,Public,11638,20624,0.56
+2020,Selangor,Public,12086,16461,0.73
+2021,Selangor,Public,12542,23001,0.55
+2022,Selangor,Public,13486,24009,0.56
+2015,Terengganu,Public,3290,5719,0.58
+2016,Terengganu,Public,3290,5964,0.55
+2017,Terengganu,Public,3392,6431,0.53
+2018,Terengganu,Public,3360,6582,0.51
+2019,Terengganu,Public,3396,6826,0.5
+2020,Terengganu,Public,3400,11544,0.29
+2021,Terengganu,Public,3444,7140,0.48
+2022,Terengganu,Public,3460,7438,0.47
+2015,W.P. Kuala Lumpur,Public,4854,12278,0.4
+2016,W.P. Kuala Lumpur,Public,4830,13140,0.37
+2017,W.P. Kuala Lumpur,Public,4810,12702,0.38
+2018,W.P. Kuala Lumpur,Public,4818,15492,0.31
+2019,W.P. Kuala Lumpur,Public,4818,17299,0.28
+2020,W.P. Kuala Lumpur,Public,6018,15374,0.39
+2021,W.P. Kuala Lumpur,Public,6018,18045,0.33
+2022,W.P. Kuala Lumpur,Public,4874,18941,0.26
+2015,W.P. Labuan,Public,244,409,0.6
+2016,W.P. Labuan,Public,244,414,0.59
+2017,W.P. Labuan,Public,244,434,0.56
+2018,W.P. Labuan,Public,244,475,0.51
+2019,W.P. Labuan,Public,244,497,0.49
+2020,W.P. Labuan,Public,244,463,0.53
+2021,W.P. Labuan,Public,244,521,0.47
+2022,W.P. Labuan,Public,244,601,0.41
+2015,W.P. Putrajaya,Public,1186,7936,0.15
+2016,W.P. Putrajaya,Public,1186,7975,0.15
+2017,W.P. Putrajaya,Public,1308,7152,0.18
+2018,W.P. Putrajaya,Public,1444,5677,0.25
+2019,W.P. Putrajaya,Public,1242,7248,0.17
+2020,W.P. Putrajaya,Public,1274,3143,0.41
+2021,W.P. Putrajaya,Public,1274,3129,0.41
+2022,W.P. Putrajaya,Public,1274,3552,0.36
