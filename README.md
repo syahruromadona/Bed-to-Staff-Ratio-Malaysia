@@ -5,7 +5,7 @@
 Malaysia’s healthcare system is experiencing increasing structural strain driven by sustained growth in service demand, population aging, and rising disease complexity. Using SQL and Excel, I pulled data from the official government data portal and analyse the number of beds and staff throughout 16 states from 2014 to 2022. The result indicates a declining bed-to-staff ratio, signalling that staffing levels are not keeping pace with available beds. I recommend two intervention to address this imbalance: 
 
 1. Increase overall healthcare staffing levels
-2. Second, address staff maldistribution across states and facilities
+2. Address staff maldistribution across states and facilities
 
 ## Business Problem
 
@@ -26,8 +26,10 @@ Malaysia’s healthcare system is facing **capacity stress that is fundamentally
 
 At the national level, the bed-to-staff ratio has declined consistently over time, indicating that growth in healthcare staffing has lagged behind increases in hospital bed capacity. This national trend suggests a structural imbalance where headline capacity expansion does not translate into proportional gains in effective service delivery due to workforce constraints.
 
+<p float="left">
 <img width="2085" height="1255" alt="National Trend 8 years" src="https://github.com/user-attachments/assets/c0c50bae-044d-434f-a5fa-265b76a865d0" />
 <img width="3095" height="1528" alt="Cloropleth Bed-to-Staff ratio" src="https://github.com/user-attachments/assets/c4f7bd7d-0a57-47b7-926f-5b4828d0ee97" />
+</p>
 
 Policy responses should prioritize aligning staffing growth with existing and planned bed capacity, particularly for clinical roles directly affecting inpatient care. In parallel, targeted interventions are needed to address staff maldistribution across states, as national averages mask localized shortages that materially affect system performance. Future capacity planning should treat beds and workforce as joint constraints, with the bed-to-staff ratio used as a core operational KPI to guide resource allocation and prevent further erosion of effective healthcare capacity.
 
