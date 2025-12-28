@@ -33,6 +33,11 @@ At the national level, the bed-to-staff ratio has declined consistently over tim
 
 Policy responses should prioritize aligning staffing growth with existing and planned bed capacity, particularly for clinical roles directly affecting inpatient care. In parallel, targeted interventions are needed to address staff maldistribution across states, as national averages mask localized shortages that materially affect system performance. Future capacity planning should treat beds and workforce as joint constraints, with the bed-to-staff ratio used as a core operational KPI to guide resource allocation and prevent further erosion of effective healthcare capacity.
 
+## Data Limitation
+
+- Reported bed and staff counts are assumed accurate as provided; discrepancies in hospital reporting could affect results.
+- Ratios do not account for differences in hospital size or specialization, which may impact local staffing adequacy.
+
 ## **Next Steps**
 
 - Analyze state-level variations to pinpoint critical staffing gaps.
