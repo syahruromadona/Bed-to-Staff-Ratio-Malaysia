@@ -24,7 +24,7 @@ Malaysia’s healthcare system is facing **capacity stress that is fundamentally
 
 ## Result and Business Recommendation
 
-At the national level, the bed-to-staff ratio has declined consistently over time, indicating that growth in healthcare staffing has lagged behind increases in hospital bed capacity. This national trend suggests a structural imbalance where headline capacity expansion does not translate into proportional gains in effective service delivery due to workforce constraints.
+At the national level, the bed-to-staff ratio has declined consistently over time, indicating that growth in healthcare staffing has lagged behind increases in hospital bed capacity. This national trend suggests a structural imbalance where headline capacity expansion does not translate into proportional gains in effective service delivery due to workforce constraints. The analysis also reveals clear maldistribution of staff across states, with some regions consistently under-resourced relative to their hospital bed capacity.
 
 <p float="left">
 <img width="500" height="1255" alt="National Trend 8 years" src="https://github.com/user-attachments/assets/c0c50bae-044d-434f-a5fa-265b76a865d0" />
