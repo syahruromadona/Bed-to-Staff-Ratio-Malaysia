@@ -23,7 +23,7 @@ Data was obtained from the Malaysia Official Open Data Portal both for the [bed 
 
 ## Result and Business Recommendation
 
-At the national level, the bed-to-staff ratio has declined consistently over time, indicating that growth in healthcare staffing has lagged behind increases in hospital bed capacity. This trends suggest that while overall capacity has increased, low number of healthcare staff may suggest bottleneck. Apart from that, some states like Kelantan and and Terengganu suffered from a very a low bed-to-staff ratio compared to other states like Perak and Johor indicating inequal staff distribution.
+At the national level, the bed-to-staff ratio has declined consistently over time, indicating that growth in healthcare staffing has lagged behind increases in hospital bed capacity. This trends suggest that while overall capacity has increased, low number of healthcare staff may suggest bottleneck. Apart from that, some states like Kelantan and and Terengganu suffered from a very low bed-to-staff ratio compared to other states like Perak and Johor indicating inequal staff distribution.
 
 <p float="left">
 <img width="556" height="453" alt="f9ad2b2d-32da-40a5-b325-83bef2ffc9cd" src="https://github.com/user-attachments/assets/fec04a24-2f7f-41a2-a08c-c9938bf2018d" />
