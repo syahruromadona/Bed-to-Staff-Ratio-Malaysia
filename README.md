@@ -12,7 +12,8 @@ Malaysia’s healthcare system has been facing capacity strain for the past few 
 ## **Methodology**
 
 1. **SQL -** Used SQL to extract, clean, and transform raw healthcare data, including aggregation by year and state, and deriving key metrics such as the bed-to-staff ratio for analysis.
-2. **Excel -** Utilized Microsoft Excel to produce analytical charts, including national trends over time, state-level comparisons, and geographic visualizations
+2. **Python -** Pandas, Matplotlib, Numpy, Writing functions
+3. **Excel -** Utilized Microsoft Excel to produce analytical charts, including national trends over time, state-level comparisons, and geographic visualizations
 
 Data was obtained from the Malaysia Official Open Data Portal both for the [bed count](https://data.gov.my/data-catalogue/hospital_beds) and [staff number](https://data.gov.my/data-catalogue/healthcare_staff) from 2014 to 2022. This analyses only look into the public hospital and public healthcare staff and does not include private institution.
 
